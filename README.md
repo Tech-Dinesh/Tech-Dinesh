@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am a Full Stack Developer and Doing Training in Ducat 
 
 <!--
 **Tech-Dinesh/Tech-Dinesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
